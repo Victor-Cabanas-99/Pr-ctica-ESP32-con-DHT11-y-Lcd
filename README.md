@@ -1,4 +1,5 @@
 # Pr-ctica-ESP32-con-DHT11-y-Lcd
+
 ```
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
@@ -51,3 +52,9 @@ void loop() {
   delay(2000);
 }
 ```
+## Librerías
+
+1. **DHT sensor library for ESPx**
+2. **LiquidCrystal I2C**
+
+## Conexión
