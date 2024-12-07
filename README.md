@@ -58,3 +58,4 @@ void loop() {
 2. **LiquidCrystal I2C**
 
 ## Conexión
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/3.PNG?raw=true)
