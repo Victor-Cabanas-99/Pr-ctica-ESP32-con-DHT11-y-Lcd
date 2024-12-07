@@ -1,5 +1,16 @@
 # Pr-ctica-ESP32-con-DHT11-y-Lcd
+## INTRODUCCION 
+### Descripcion 
+La Esp32 es una tarjeta de adquisición de datos, paralo cual en esta practica ocuparemos un sensor (DTH11) con una pantalla LCD216 para adquirir datos de temperatura y humedad del entorno cada segundo y mostrarlar los datos en la panatlla, se usara un simulador llamado WOKWI.
+## MATERIAL A UTILIZAR
+- [WOKWI](https://wokwi.com/projects/new/esp32)
+- TARJET ESP32
+- SENSOR DHT11
+- LCD 16X2 2IC
+- 
+## INSTRUCCIONES
 
+Se usara el codigo anterior y se realizaran modificaiones para mostrar datos del programador asi como del curso
 ```
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
