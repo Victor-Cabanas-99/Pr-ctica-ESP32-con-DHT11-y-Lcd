@@ -1,5 +1,5 @@
 # Pr-ctica-ESP32-con-DHT11-y-Lcd
-´´´
+'''
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
 #define I2C_ADDR    0x27
@@ -50,4 +50,4 @@ void loop() {
 
   delay(2000);
 }
-´´´
+'''
