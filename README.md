@@ -7,7 +7,7 @@ La Esp32 es una tarjeta de adquisición de datos, paralo cual en esta practica o
 - TARJET ESP32
 - SENSOR DHT11
 - LCD 16X2 2IC
-- 
+  
 ## INSTRUCCIONES
 ### Instrucciones de preparación de entorno 
 
@@ -89,5 +89,4 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 1. **DHT sensor library for ESPx**
 2. **LiquidCrystal I2C**
 
-## Conexión
-![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/3.PNG?raw=true)
+
