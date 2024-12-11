@@ -1,4 +1,4 @@
-# Pr-ctica-ESP32-con-DHT11-y-Lcd
+# Practica-ESP32-con-DHT11-y-Lcd
 ## INTRODUCCION 
 ### Descripcion 
 La Esp32 es una tarjeta de adquisición de datos, paralo cual en esta practica ocuparemos un sensor (DTH11) con una pantalla LCD216 para adquirir datos de temperatura y humedad del entorno cada segundo y mostrarlar los datos en la panatlla, se usara un simulador llamado WOKWI.
@@ -67,11 +67,11 @@ void loop() {
 
 2. Instalar la libreria de **DHT sensor library for ESPx** y **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/SENSOR%20DHT22%20Y%20LCD%20LIBRERIA.PNG?raw=true)
 
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/SENSOR%20DHT22%20Y%20LCD%20CONEXCION.PNG?raw=true)
 
 ### Instrucciónes de operación
 
@@ -82,7 +82,7 @@ void loop() {
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]()
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/SENSOR%20DHT22%20Y%20LCD%20RESULTADO.PNG?raw=true)
 
 ## Librerías
 
