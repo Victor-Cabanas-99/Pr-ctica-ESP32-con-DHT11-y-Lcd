@@ -9,8 +9,9 @@ La Esp32 es una tarjeta de adquisición de datos, paralo cual en esta practica o
 - LCD 16X2 2IC
 - 
 ## INSTRUCCIONES
+### Instrucciones de preparación de entorno 
 
-Se usara el codigo anterior y se realizaran modificaiones para mostrar datos del programador asi como del curso
+1. Abrir la terminal de programación y colocar la siguente programación:
 ```
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
@@ -63,6 +64,26 @@ void loop() {
   delay(2000);
 }
 ```
+
+2. Instalar la libreria de **DHT sensor library for ESPx** y **LiquidCrystal I2C** como se muestra en la siguente imagen.
+
+![]()
+
+3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+
+![]()
+
+### Instrucciónes de operación
+
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial.
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11**
+
+## Resultados
+
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+![]()
+
 ## Librerías
 
 1. **DHT sensor library for ESPx**
