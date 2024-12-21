@@ -92,3 +92,4 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 ### Desarrollado por 
 VICTOR EMANUEL CABAÑAS MONTES
+[Victor](https://github.com/Victor-Cabanas-99)
