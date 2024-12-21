@@ -82,8 +82,9 @@ void loop() {
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/DHT%20Y%20LCD%20RESULTADO%201.PNG?raw=true)
 ![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/SENSOR%20DHT22%20Y%20LCD%20RESULTADO.PNG?raw=true)
-
+![](https://github.com/Victor-Cabanas-99/Pr-ctica-ESP32-con-DHT11-y-Lcd/blob/main/DHT%20Y%20LCD%20RESULTADO%203.PNG?raw=true)
 ## Librerías
 
 1. **DHT sensor library for ESPx**
